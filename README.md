@@ -183,7 +183,9 @@ Or just browse the PDF export or screenshots in the `images/` folder.
 ## 👤 Author
 
 **Ebunoluwa Olaleye**  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username) · 📧 sanusiebunolu@gmail.com[HR_Attritionproject_PBI.pdf](https://github.com/user-attachments/files/33305048/HR_Attritionproject_PBI.pdf)
+🔗 [LinkedIn](https://linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username) · 📧 sanusiebunolu@gmail.com
+
+[HR_Attritionproject_PBI.pdf]
 
 
 *Created as part of a data analytics project with MeriSKILL.*
