@@ -6,6 +6,7 @@ An interactive **Power BI** dashboard that explores why employees leave an organ
 > **Project type:** HR Analytics / Data Visualization  
 > **Dashboard pages:** 3
 
+[Employee_Atrrition Analysis.pdf](https://github.com/user-attachments/files/33305352/Employee_Atrrition.Analysis.pdf)
 ---
 
 ## 📌 Table of Contents
@@ -59,7 +60,7 @@ This dashboard was designed to answer:
 - **Departments:** Research & Development (961), Sales (446), Human Resources (63)
 - **Attributes include:** Age, Gender, Marital Status, Department, Job Role, Job Satisfaction, Work-Life Balance, Performance Rating, Monthly Income, Daily Rate, Overtime, Distance From Home, Years Since Last Promotion, Business Travel, Education Level & Field, Attrition (Yes/No)
 
-> 📝 *Add your data source here (e.g., Kaggle / IBM HR Analytics dataset) and a link if applicable.*
+> 📝 Data source (Kaggle / IBM HR Analytics dataset).*
 
 ---
 
@@ -172,11 +173,11 @@ Or just browse the PDF export or screenshots in the `images/` folder.
 
 | Page 1 – Attrition Overview | Page 2 – Overtime & Work-Life |
 |---|---|
-| ![Page 1](images/page1_overview.png) | ![Page 2](images/page2_overtime.png) |
+| ![Page 1]<img width="698" height="407" alt="HR Attrition 3" src="https://github.com/user-attachments/assets/e288a8c7-ed8f-412f-b3e4-c06eef1089e0" /> | ![Page 2]<img width="697" height="420" alt="HR Attrition 2" src="https://github.com/user-attachments/assets/9e32d26b-bdde-4e3f-8694-224c399ef897" /> |
 
 | Page 3 – Workforce Profile |
 |---|
-| ![Page 3](images/page3_workforce.png) |
+| ![Page 3]<img width="684" height="454" alt="HR Attrition 1" src="https://github.com/user-attachments/assets/d2e7de57-45c7-4f80-ba8f-da482163b9e2" /> |
 
 ---
 
@@ -184,8 +185,6 @@ Or just browse the PDF export or screenshots in the `images/` folder.
 
 **Ebunoluwa Olaleye**  
 🔗 [LinkedIn](https://linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username) · 📧 sanusiebunolu@gmail.com
-
-[HR_Attritionproject_PBI.pdf]
 
 
 *Created as part of a data analytics project with MeriSKILL.*
