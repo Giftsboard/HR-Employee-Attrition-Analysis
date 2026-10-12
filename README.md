@@ -184,7 +184,7 @@ Or just browse the PDF export or screenshots in the `images/` folder.
 ## 👤 Author
 
 **Ebunoluwa Olaleye**  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username) · 📧 sanusiebunolu@gmail.com
+🔗 [LinkedIn]www.linkedin.com/in/ebunoluolaleye · 📧 sanusiebunolu@gmail.com
 
 
 *Created as part of a data analytics project with MeriSKILL.*
